@@ -19,7 +19,7 @@
 # elif opcion == 2:
 #     dinero +=20
 # elif opcion == 3:
-#     print("Muy bien usted esta ahorrando") 
+#     print("Muy bien usted esta ahorrando de mejor manera") 
 # else:
 #     print("Esta opcion es invalida")      
     
